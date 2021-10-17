@@ -1,0 +1,47 @@
+
+REGISTRASI LOGIN
+MD5 
+devi 12345
+d55e27c13f7c7278ac8ed26333446f91
+d55e27c13f7c7278ac8ed26333446f91
+
+MD5
+devi123 (REGISTRASI EKSTRAKULIKULER)
+18965f652fdc43f0b18da6a3d6d3c3cf
+18965f652fdc43f0b18da6a3d6d3c3cf
+
+
+REGISTRASI COURSE
+SHA1 
+Courses design web 
+devi123
+b3c53b8004bb446f0600d97a55ec0d49ad8e15c1
+b3c53b8004bb446f0600d97a55ec0d49ad8e15c1
+
+
+SHA1 
+Courses Coding
+devi1234 
+a2a3c2796529e39b8a4dc0ee19640ab1d5f7cb66
+a2a3c2796529e39b8a4dc0ee19640ab1d5f7cb66
+
+
+SHA1 
+Courses Sistem Keamanan Data 
+devi27
+8ebe75c9f6b52e1451ceff32a22233f8b3e00c01
+8ebe75c9f6b52e1451ceff32a22233f8b3e00c01
+
+
+SHA1 
+Courses Javascript
+devi27
+8ebe75c9f6b52e1451ceff32a22233f8b3e00c01
+8ebe75c9f6b52e1451ceff32a22233f8b3e00c01
+
+
+COURSE SKD
+- Vigenere Cipher 
+- caesar Cipher 
+- AES 
+- RSA 
