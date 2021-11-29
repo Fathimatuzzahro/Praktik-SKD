@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 17, 2021 at 06:21 PM
+-- Generation Time: Nov 22, 2021 at 12:40 PM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 8.0.3
 
@@ -161,20 +161,28 @@ CREATE TABLE `user` (
   `email` varchar(100) NOT NULL,
   `passwordd` varchar(100) NOT NULL,
   `rolee` varchar(100) NOT NULL,
-  `ket` varchar(100) NOT NULL
+  `ket` varchar(100) NOT NULL,
+  `no_hp` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
 -- Dumping data for table `user`
 --
 
-INSERT INTO `user` (`id`, `nama`, `username`, `email`, `passwordd`, `rolee`, `ket`) VALUES
-(1, 'Devi Anggita Ambarwati', 'Devi', 'devianggita41@gmail.com', '18965f652fdc43f0b18da6a3d6d3c3cf', 'admin', 'lock'),
-(11, 'Adi Saputra', 'Adi', 'Adi@gmail.com', 'c46335eb267e2e1cde5b017acb4cd799', 'user', 'unlock'),
-(12, 'Devi Anggita', 'DeviAA', 'devianggita41@gmail.com', 'd55e27c13f7c7278ac8ed26333446f91', 'user', 'unlock'),
-(13, 'Salma Sabrina', 'Salma Sabrina', 'salma123@gmail.com', '34b0d4d0b3c4173ec489e4ab677cbbdf', 'user', 'unlock'),
-(14, 'Anggita', 'Anggita41', 'devianggita41@gmail.com', 'ff47ec10cbc6e64ab270b5cfb40755f2', 'user', 'unlock'),
-(15, 'Devi Anggita Ambarwati', 'DeviAnggita27', 'devianggita41@gmail.com', 'd55e27c13f7c7278ac8ed26333446f91', 'user', 'unlock');
+INSERT INTO `user` (`id`, `nama`, `username`, `email`, `passwordd`, `rolee`, `ket`, `no_hp`) VALUES
+(1, 'Devi Anggita Ambarwati', 'Devi', 'devianggita41@gmail.com', '18965f652fdc43f0b18da6a3d6d3c3cf', 'admin', 'unlock', '0'),
+(11, 'Adi Saputra', 'Adi', 'Adi@gmail.com', 'c46335eb267e2e1cde5b017acb4cd799', 'user', 'unlock', '0'),
+(12, 'Devi Anggita', 'DeviAA', 'devianggita41@gmail.com', 'd55e27c13f7c7278ac8ed26333446f91', 'user', 'unlock', '0'),
+(13, 'Salma Sabrina', 'Salma Sabrina', 'salma123@gmail.com', '34b0d4d0b3c4173ec489e4ab677cbbdf', 'user', 'unlock', '0'),
+(14, 'Anggita', 'Anggita41', 'devianggita41@gmail.com', 'ff47ec10cbc6e64ab270b5cfb40755f2', 'user', 'unlock', '0'),
+(15, 'Devi Anggita Ambarwati', 'DeviAnggita27', 'devianggita41@gmail.com', 'd55e27c13f7c7278ac8ed26333446f91', 'user', 'unlock', '0'),
+(16, 'Devi Anggita A.', 'Devi', 'devianggita41@gmail.com', 'a1f1a1ca8f4cf97cced16d831869ec8d', 'user', 'unlock', '0'),
+(17, 'AA', 'AA', 'AA', '3b98e2dffc6cb06a89dcb0d5c60a0206', 'user', 'unlock', '0'),
+(18, 'Devi', 'Devi', 'devianggita41@gmail.com', 'ce585606d64fd61f6642baadde0eec8d', 'user', 'unlock', '0'),
+(19, 'Kesa', 'Kesa', 'kesa', 'f137b05de5299352b9705a488d608bed', 'user', 'unlock', '0'),
+(23, 'devianggita41@gmail.com', 'devianggita41@student.uns.ac.id', 'devianggita41@gmail.com', '8277e0910d750195b448797616e091ad', 'user', 'unlock', '+6256433585522'),
+(24, 'Devi AA', 'Devi', 'devianggita41@gmail.com', '8277e0910d750195b448797616e091ad', 'user', 'unlock', '+6256433585522'),
+(25, 'Devi', 'Devi', 'devianggita41@gmail.com', 'ce585606d64fd61f6642baadde0eec8d', 'user', 'unlock', '+6256433585522');
 
 --
 -- Indexes for dumped tables
@@ -230,7 +238,7 @@ ALTER TABLE `user`
 -- AUTO_INCREMENT for table `loginlogs`
 --
 ALTER TABLE `loginlogs`
-  MODIFY `id` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=37;
+  MODIFY `id` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=41;
 
 --
 -- AUTO_INCREMENT for table `tb_coding_sha`
@@ -266,7 +274,7 @@ ALTER TABLE `tb_keamanandata_sha`
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `id` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
+  MODIFY `id` int(100) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

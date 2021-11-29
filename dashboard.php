@@ -26,9 +26,11 @@ if (!isset($_SESSION['IS_LOGIN'])) {
     <meta charset="UTF-8" />
 
     <title>Alexandria School</title>
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Roboto:400,400i,500,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Roboto:400,400i,500,700"
+        rel="stylesheet" />
 
-    <link rel="stylesheet" href="css/linearicons.css%2bfont-awesome.min.css%2bbootstrap.css%2bmagnific-popup.css%2bowl.carousel.css%2bnice-select.css%2bhexagons.min.css.pagespeed.cc.e_F6Y5yBxP.css" />
+    <link rel="stylesheet"
+        href="css/linearicons.css%2bfont-awesome.min.css%2bbootstrap.css%2bmagnific-popup.css%2bowl.carousel.css%2bnice-select.css%2bhexagons.min.css.pagespeed.cc.e_F6Y5yBxP.css" />
     <link rel="stylesheet" href="../../../cdn.jsdelivr.net/themify-icons/0.1.2/css/themify-icons.css" />
     <link rel="stylesheet" href="css/A.main.css.pagespeed.cf.DQLcLWq5zQ.css" />
 </head>
@@ -38,15 +40,18 @@ if (!isset($_SESSION['IS_LOGIN'])) {
     <header class="default-header">
         <nav class="navbar navbar-expand-lg  navbar-light">
             <div class="container">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="dashboard.php">
                     <img src="img/xlogo.png.pagespeed.ic.FgtVtamvYI.png" alt="" />
                 </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
                     <span class="lnr lnr-menu"></span>
                 </button>
-                <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse justify-content-end align-items-center"
+                    id="navbarSupportedContent">
                     <ul class="navbar-nav">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="dashboard.php">Home</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="courses.html">Courses</a></li>
                         <li><a href="contacts.html">Contacts</a></li>
@@ -80,7 +85,9 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                         Take the first step <br /> to learn with Alexandria School
                     </h1>
                     <p class="mx-auto text-white  mt-20 mb-40">
-                        Investasi terbaik di dalam kehidupan manusia adalah melalui jalan pendidikan. Karena Pendidikan adalah kunci untuk membangun manusia demi menciptakan peradaban yang lebih baik. Berdasarkan gagasan itu Alexandria School hadir untuk memenuhi kebutuhan pendidikan
+                        Investasi terbaik di dalam kehidupan manusia adalah melalui jalan pendidikan. Karena Pendidikan
+                        adalah kunci untuk membangun manusia demi menciptakan peradaban yang lebih baik. Berdasarkan
+                        gagasan itu Alexandria School hadir untuk memenuhi kebutuhan pendidikan
                         di Indonesia. </p>
                 </div>
                 <div class="offset-lg-2 col-lg-5 col-md-12 home-banner-right">
@@ -100,7 +107,8 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                         <div class="ml-20">
                             <h4>New Classes</h4>
                             <p>
-                                Alexandria School menyiapkan kelas-kelas terbaru di ekstrakulikuler computing seperti design web , coding , berlatih sistem keamanan data dan amsih banyak lagi.
+                                Alexandria School menyiapkan kelas-kelas terbaru di ekstrakulikuler computing seperti
+                                design web , coding , berlatih sistem keamanan data dan amsih banyak lagi.
                             </p>
                         </div>
                     </div>
@@ -111,7 +119,8 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                         <div class="ml-20">
                             <h4>Top Courses</h4>
                             <p>
-                                Top Courses Alexandria School yakni courses website , dimana siswa akan dilatih bangaimana membangun website yang responsive , terkini dan informative.
+                                Top Courses Alexandria School yakni courses website , dimana siswa akan dilatih
+                                bangaimana membangun website yang responsive , terkini dan informative.
                             </p>
                         </div>
                     </div>
@@ -140,7 +149,9 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                         Popular Courses <br /> Available Right Now
                     </h2>
                     <p>
-                        Courses yang sedang tersedia dan populer saat ini banyak di minati siswa yakni belajar bagaimana membangun website mulai dari tampilan , coding , dan sistem keamanan data dari website itu sendiri .
+                        Courses yang sedang tersedia dan populer saat ini banyak di minati siswa yakni belajar bagaimana
+                        membangun website mulai dari tampilan , coding , dan sistem keamanan data dari website itu
+                        sendiri .
                     </p>
                 </div>
             </div>
@@ -294,7 +305,8 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                             Watch Our Trainers <br> in Live Action
                         </h2>
                         <p>
-                            Banyak siswa dari Alexandria School saling berkolaborasi dan bekerjasama dalam membangun suatu projek contohnya membangun suatu proyek sistem informasi.
+                            Banyak siswa dari Alexandria School saling berkolaborasi dan bekerjasama dalam membangun
+                            suatu projek contohnya membangun suatu proyek sistem informasi.
                         </p>
                     </div>
                 </div>
@@ -308,9 +320,12 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                                     <img class="play-icon" src="img/xplay-btn.png.pagespeed.ic.xsmohhCLZ_.png" alt="">
                                 </a>
                             </div>
-                            <h4 class="text-white mb-20 mt-30">What Alexandria Computing Students Think About Alexandria Computing</h4>
+                            <h4 class="text-white mb-20 mt-30">What Alexandria Computing Students Think About Alexandria
+                                Computing</h4>
                             <p class="text-white mb-20">
-                                Ever wondered what the actual Computing students think about Computing? Same. To my fellow incoming Computing Freshies, welcome to the School of Computing, where we make memes about our mental torment and anguish.
+                                Ever wondered what the actual Computing students think about Computing? Same. To my
+                                fellow incoming Computing Freshies, welcome to the School of Computing, where we make
+                                memes about our mental torment and anguish.
                             </p>
                         </div>
 
@@ -322,9 +337,12 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                                     <img class="play-icon" src="img/xplay-btn.png.pagespeed.ic.xsmohhCLZ_.png" alt="">
                                 </a>
                             </div>
-                            <h4 class="text-white mb-20 mt-30">What Alexandria Computing Students Think About Alexandria Computing</h4>
+                            <h4 class="text-white mb-20 mt-30">What Alexandria Computing Students Think About Alexandria
+                                Computing</h4>
                             <p class="text-white mb-20">
-                                Ever wondered what the actual Computing students think about Computing? Same. To my fellow incoming Computing Freshies, welcome to the School of Computing, where we make memes about our mental torment and anguish.
+                                Ever wondered what the actual Computing students think about Computing? Same. To my
+                                fellow incoming Computing Freshies, welcome to the School of Computing, where we make
+                                memes about our mental torment and anguish.
                             </p>
                         </div>
                     </div>
@@ -343,7 +361,8 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                             Features That <br /> Can Avail By Everyone
                         </h2>
                         <p>
-                            Fasilitas yang didapatkan oleh siswa Alexandria Computing School seperti Lifetime Acces, Source File Include , Expert Mentors ,Student Membership , Courses , dan Live Support
+                            Fasilitas yang didapatkan oleh siswa Alexandria Computing School seperti Lifetime Acces,
+                            Source File Include , Expert Mentors ,Student Membership , Courses , dan Live Support
                         </p>
                     </div>
                 </div>
@@ -398,7 +417,9 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                                 <img src="img/quote.png" alt="" />
                                 <div class="mt-40 text">
                                     <p>
-                                        As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about it, you travel across her face and She is the host to your journey.
+                                        As conscious traveling Paup ers we must always be oncerned about our dear Mother
+                                        Earth. If you think about it, you travel across her face and She is the host to
+                                        your journey.
                                     </p>
                                 </div>
                                 <h4>Fanny Spencer</h4>
@@ -417,7 +438,9 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                                 <img src="img/quote.png" alt="" />
                                 <div class="mt-40 text">
                                     <p>
-                                        “We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten. Don’t let yourself be lulled into inaction.”
+                                        “We always overestimate the change that will occur in the next two years and
+                                        underestimate the change that will occur in the next ten. Don’t let yourself be
+                                        lulled into inaction.”
                                     </p>
                                 </div>
                                 <h4>Bill Gates</h4>
@@ -443,7 +466,8 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                             Let's Get <br> Registration
                         </h2>
                         <p>
-                            Ayo bergabung dengan Extracurricular Alexandria Computing School , kembangkan bakat dan minat mu di bidang IT .
+                            Ayo bergabung dengan Extracurricular Alexandria Computing School , kembangkan bakat dan
+                            minat mu di bidang IT .
                         </p>
                     </div>
                 </div>
@@ -470,18 +494,25 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                     <div class="course-form-section">
                         <h3 class="text-white">Registration for Extracurricular</h3>
                         <p class="text-white">It is high time for learning</p>
-                        <form class="course-form-area contact-page-form course-form text-right" id="myForm"  action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+                        <form class="course-form-area contact-page-form course-form text-right" id="myForm"
+                            action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
                             <div class="form-group col-md-12">
-                                <input type="text" class="form-control" id="username" name="username" placeholder="Username" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Name'">
+                                <input type="text" class="form-control" id="username" name="username"
+                                    placeholder="Username" onfocus="this.placeholder = ''"
+                                    onblur="this.placeholder = 'Name'">
                             </div>
                             <div class="form-group col-md-12">
-                                <input type="email" class="form-control" id="email" name="email" placeholder="Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address'">
+                                <input type="email" class="form-control" id="email" name="email"
+                                    placeholder="Email Address" onfocus="this.placeholder = ''"
+                                    onblur="this.placeholder = 'Email Address'">
                             </div>
                             <div class="form-group col-md-12">
-                                <input type="password" class="form-control" id="passwordd1" name="passwordd1" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
+                                <input type="password" class="form-control" id="passwordd1" name="passwordd1"
+                                    placeholder="Password" onfocus="this.placeholder = ''"
+                                    onblur="this.placeholder = 'Password'">
                             </div>
                             <div class="col-lg-12 text-center">
-                            <button class="btn btn-success" type="submit" name="submit" >Registrasi</button>
+                                <button class="btn btn-success" type="submit" name="submit">Registrasi</button>
                             </div>
                         </form>
                     </div>
@@ -535,8 +566,12 @@ if (!isset($_SESSION['IS_LOGIN'])) {
                     <h4>Newsletter</h4>
                     <p>You can trust us. we only send promo offers,</p>
                     <div class="form-wrap" id="mc_embed_signup">
-                        <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" class="form-inline">
-                            <input class="form-control" name="EMAIL" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '" required type="email">
+                        <form target="_blank"
+                            action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
+                            class="form-inline">
+                            <input class="form-control" name="EMAIL" placeholder="Your Email Address"
+                                onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '"
+                                required type="email">
                             <button class="click-btn btn btn-default text-uppercase">subscribe</button>
                             <div style="position: absolute; left: -5000px;">
                                 <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
@@ -551,8 +586,9 @@ if (!isset($_SESSION['IS_LOGIN'])) {
 
                     Copyright &copy;
                     <script>
-                        document.write(new Date().getFullYear());
-                    </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
+                    document.write(new Date().getFullYear());
+                    </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
+                        aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
                 </p>
                 <div class="col-lg-4 col-md-12 footer-social">
                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -565,56 +601,64 @@ if (!isset($_SESSION['IS_LOGIN'])) {
     </footer>
 
     <script src="js/vendor/jquery-2.2.4.min.js"></script>
-    <script src="../../../cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-    <script src="js/vendor%2c_bootstrap.min.js%2bjquery.ajaxchimp.min.js%2bjquery.magnific-popup.min.js%2bparallax.min.js.pagespeed.jc.APRAhY84lf.js"></script>
+    <script src="../../../cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
+        integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous">
+    </script>
+    <script
+        src="js/vendor%2c_bootstrap.min.js%2bjquery.ajaxchimp.min.js%2bjquery.magnific-popup.min.js%2bparallax.min.js.pagespeed.jc.APRAhY84lf.js">
+    </script>
     <script>
-        eval(mod_pagespeed_ufuz5PjQPA);
+    eval(mod_pagespeed_ufuz5PjQPA);
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
     <script>
-        eval(mod_pagespeed_kFmS7MLkTP);
+    eval(mod_pagespeed_kFmS7MLkTP);
     </script>
     <script>
-        eval(mod_pagespeed__vGFzIyk5p);
+    eval(mod_pagespeed__vGFzIyk5p);
     </script>
     <script>
-        eval(mod_pagespeed_DyNN9nfq2p);
+    eval(mod_pagespeed_DyNN9nfq2p);
     </script>
-    <script src="js/owl.carousel.min.js%2bjquery.sticky.js%2bhexagons.min.js%2bjquery.counterup.min.js%2bwaypoints.min.js%2bjquery.nice-select.min.js%2bmain.js.pagespeed.jc.ydTG76tfCV.js"></script>
-    <script>
-        eval(mod_pagespeed_0Go$u25iY_);
-    </script>
-    <script>
-        eval(mod_pagespeed_9_IE1H_8qT);
+    <script
+        src="js/owl.carousel.min.js%2bjquery.sticky.js%2bhexagons.min.js%2bjquery.counterup.min.js%2bwaypoints.min.js%2bjquery.nice-select.min.js%2bmain.js.pagespeed.jc.ydTG76tfCV.js">
     </script>
     <script>
-        eval(mod_pagespeed_$nN6wRIle4);
+    eval(mod_pagespeed_0Go$u25iY_);
     </script>
     <script>
-        eval(mod_pagespeed_p4xZoiuSlO);
+    eval(mod_pagespeed_9_IE1H_8qT);
     </script>
     <script>
-        eval(mod_pagespeed_6nrsJ02F_x);
+    eval(mod_pagespeed_$nN6wRIle4);
     </script>
     <script>
-        eval(mod_pagespeed_3sLiFmyYzI);
+    eval(mod_pagespeed_p4xZoiuSlO);
     </script>
     <script>
-        eval(mod_pagespeed_uT5GBOVP1z);
+    eval(mod_pagespeed_6nrsJ02F_x);
+    </script>
+    <script>
+    eval(mod_pagespeed_3sLiFmyYzI);
+    </script>
+    <script>
+    eval(mod_pagespeed_uT5GBOVP1z);
     </script>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
+    window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
-        gtag('config', 'UA-23581568-13');
+    gtag('config', 'UA-23581568-13');
     </script>
-    <script defer src="../../../static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"69f52c9b7dcf2eb3","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2021.9.0","si":100}'></script>
+    <script defer src="../../../static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon='{"rayId":"69f52c9b7dcf2eb3","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2021.9.0","si":100}'>
+    </script>
 </body>
 
 <!-- Mirrored from preview.colorlib.com/theme/eclipse/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 Oct 2021 23:47:58 GMT -->

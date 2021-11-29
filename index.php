@@ -68,7 +68,8 @@ function getIpAddr()
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
 
     <title>Login Attempts</title>
@@ -88,7 +89,7 @@ function getIpAddr()
                     </h4>
                     <h4 class="text-center">
                         <font color='rgba(204, 180, 255, 0.5)'>Alexandria School</font>
-                        
+
                     </h4>
                     <br />
 
@@ -106,7 +107,8 @@ function getIpAddr()
                                                                 <font color='rgba(204, 180, 255, 0.5)'>Username</font>
                                                             </h4>
                                                         </label><br>
-                                                        <input type="text" name="username" id="username" class="form-control" required>
+                                                        <input type="text" name="username" id="username"
+                                                            class="form-control" required>
                                                     </div>
                                                 </div>
                                                 <div class="mb-3">
@@ -116,18 +118,19 @@ function getIpAddr()
                                                                 <font color='rgba(204, 180, 255, 0.5)'>Password</font>
                                                             </h4>
                                                         </label><br>
-                                                        <input type="password" name="passwordd" id="passwordd" class="form-control" required>
+                                                        <input type="password" name="passwordd" id="passwordd"
+                                                            class="form-control" required>
                                                     </div>
                                                 </div>
                                                 <div class="form-group">
-                                                    <input type="submit" name="submit" class="btn btn-primary" value="Submit">
+                                                    <input type="submit" name="submit" class="btn btn-primary"
+                                                        value="Submit">
                                                 </div>
                                                 <div class="form-group">
-                                                    <a href="/UTS_SKD/Register/register.php">Create your Account ?</a>                                                
+                                                    <a href="/UTS_SKD/Register/">Create your Account ?</a>
                                                 </div>
                                                 <div id="result"><?php echo $msg ?></div>
                                             </form>
-
                                         </div>
                                     </div>
                                 </div>

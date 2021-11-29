@@ -18,9 +18,11 @@
     <meta charset="UTF-8" />
 
     <title>Alexandria School</title>
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Roboto:400,400i,500,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Roboto:400,400i,500,700"
+        rel="stylesheet" />
 
-    <link rel="stylesheet" href="css/linearicons.css%2bfont-awesome.min.css%2bbootstrap.css%2bmagnific-popup.css%2bowl.carousel.css%2bnice-select.css%2bhexagons.min.css.pagespeed.cc.e_F6Y5yBxP.css" />
+    <link rel="stylesheet"
+        href="css/linearicons.css%2bfont-awesome.min.css%2bbootstrap.css%2bmagnific-popup.css%2bowl.carousel.css%2bnice-select.css%2bhexagons.min.css.pagespeed.cc.e_F6Y5yBxP.css" />
     <link rel="stylesheet" href="../../../cdn.jsdelivr.net/themify-icons/0.1.2/css/themify-icons.css" />
     <link rel="stylesheet" href="css/A.main.css.pagespeed.cf.DQLcLWq5zQ.css" />
 </head>
@@ -30,23 +32,26 @@
     <header class="default-header">
         <nav class="navbar navbar-expand-lg  navbar-light">
             <div class="container">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="dashboard.php">
                     <img src="img/xlogo.png.pagespeed.ic.FgtVtamvYI.png" alt="" />
                 </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="lnr lnr-menu"></span>
-</button>
-                <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="lnr lnr-menu"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end align-items-center"
+                    id="navbarSupportedContent">
                     <ul class="navbar-nav">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="dashboard.php">Home</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="courses.html">Courses</a></li>
                         <li><a href="contacts.html">Contacts</a></li>
                         <li><a href="index.php">Logout</a></li>
                         <li>
                             <button class="search">
-<span class="lnr lnr-magnifier" id="search"></span>
-</button>
+                                <span class="lnr lnr-magnifier" id="search"></span>
+                            </button>
                         </li>
                     </ul>
                 </div>
@@ -76,9 +81,9 @@
                     </p>
                     <div class="link-nav">
                         <span class="box">
-                        <a href="index.html">Home </a>
-                        <i class="lnr lnr-arrow-right"></i>
-                        <a href="courses.html">Courses</a>
+                            <a href="dashboard.php">Home </a>
+                            <i class="lnr lnr-arrow-right"></i>
+                            <a href="courses.html">Courses</a>
                         </span>
                     </div>
                 </div>
@@ -96,7 +101,8 @@
                         <div class="ml-20">
                             <h4>New Classes</h4>
                             <p>
-                                Alexandria School menyiapkan kelas-kelas terbaru di ekstrakulikuler computing seperti design web , coding , berlatih sistem keamanan data dan amsih banyak lagi.
+                                Alexandria School menyiapkan kelas-kelas terbaru di ekstrakulikuler computing seperti
+                                design web , coding , berlatih sistem keamanan data dan amsih banyak lagi.
                             </p>
                         </div>
                     </div>
@@ -107,7 +113,8 @@
                         <div class="ml-20">
                             <h4>Top Courses</h4>
                             <p>
-                                Top Courses Alexandria School yakni courses website , dimana siswa akan dilatih bangaimana membangun website yang responsive , terkini dan informative.
+                                Top Courses Alexandria School yakni courses website , dimana siswa akan dilatih
+                                bangaimana membangun website yang responsive , terkini dan informative.
                             </p>
                         </div>
                     </div>
@@ -136,59 +143,92 @@
                         Popular Courses Coding <br /> Available Right Now
                     </h2>
                     <p>
-                        Courses yang sedang tersedia dan populer saat ini banyak di minati siswa yakni belajar bagaimana membangun website mulai dari tampilan , coding , dan sistem keamanan data dari website itu sendiri .
+                        Courses yang sedang tersedia dan populer saat ini banyak di minati siswa yakni belajar bagaimana
+                        membangun website mulai dari tampilan , coding , dan sistem keamanan data dari website itu
+                        sendiri .
                     </p>
                     <br>
                     <p>
-                        Apa itu coding? Kita telah sepakat bahwa coding adalah penulisan atau skrip yang dapat dimengerti komputer, sekarang mari kita pahami lebih lanjut apa yang menjadi latar belakangnya.
+                        Apa itu coding? Kita telah sepakat bahwa coding adalah penulisan atau skrip yang dapat
+                        dimengerti komputer, sekarang mari kita pahami lebih lanjut apa yang menjadi latar belakangnya.
                     </p>
                     <br>
                     <p>
-                        Komputer tidak memahami bahasa manusia dan demi untuk melihat sebuah hasil (seperti tampilan pada layar), kita harus menulis dalam bahasa yang bisa dipahami komputer.
+                        Komputer tidak memahami bahasa manusia dan demi untuk melihat sebuah hasil (seperti tampilan
+                        pada layar), kita harus menulis dalam bahasa yang bisa dipahami komputer.
                     </p>
                     <br>
                     <p>
-                        Coding 101 - Coba bayangkan coding sebagai seorang penerjemah antara bahasa Inggris (atau bahasa anda) dengan Binary. Jika anda dapat membayangkannya, maka anda dapat lebih mengerti apa itu coding.
+                        Coding 101 - Coba bayangkan coding sebagai seorang penerjemah antara bahasa Inggris (atau bahasa
+                        anda) dengan Binary. Jika anda dapat membayangkannya, maka anda dapat lebih mengerti apa itu
+                        coding.
                     </p>
                     <br>
                     <p>
-                        Jadi, coba bayangkan seperti ini: komputer anda hanya memahami binary, tapi komputer juga memahami berbagai macam bahasa pemrograman. Secara paralel, anda mungkin hanya tahu satu bahasa, tapi setidaknya anda memahami bahasa pemrograman (jika anda paham dasar-dasarnya).
+                        Jadi, coba bayangkan seperti ini: komputer anda hanya memahami binary, tapi komputer juga
+                        memahami berbagai macam bahasa pemrograman. Secara paralel, anda mungkin hanya tahu satu bahasa,
+                        tapi setidaknya anda memahami bahasa pemrograman (jika anda paham dasar-dasarnya).
                     </p>
                     <br>
                     <p>
-                        Jadi, karena anda dan komputer punya pemahaman yang sama soal bahasa pemrograman, maka anda dapat berkomunikasi dengan komputer anda, sama seperti ketika meng-klik website ini!    
+                        Jadi, karena anda dan komputer punya pemahaman yang sama soal bahasa pemrograman, maka anda
+                        dapat berkomunikasi dengan komputer anda, sama seperti ketika meng-klik website ini!
                     </p>
                     <br>
                     <h3>Kenapa Saya Harus Belajar Coding?</h3>
                     <br>
                     <p>
-                    Sekarang anda sudah tahu konsep dasar dari apa itu coding, selanjutnya kita akan membahas beberapa alasan kenapa anda harus belajar coding. Coding bisa memiliki efek yang besar terhadap kehidupan pribadi dan profesional anda. Beberapa alasan utama kenapa anda harus belajar coding adalah:
+                        Sekarang anda sudah tahu konsep dasar dari apa itu coding, selanjutnya kita akan membahas
+                        beberapa alasan kenapa anda harus belajar coding. Coding bisa memiliki efek yang besar terhadap
+                        kehidupan pribadi dan profesional anda. Beberapa alasan utama kenapa anda harus belajar coding
+                        adalah:
                     </p>
                     <br>
                     <p>
-                        Anda dapat meningkatkan pendapatan anda - Para programmer berpengalaman dapat memiliki pendapatan yang besar, apalagi jika mereka bekerja sebagai freelance atau karyaman kontrakan. Banyak programmer yang mendapat lebih dari $100 per jam, sehingga anda dapat mewujudkan mimpi anda yang paling liar. Dan yang terbaik, ada tuntutan pasar yang besar untuk para programmer, dan banyak orang akan rela untuk membayar anda mahal, apalagi jika anda sudah punya pengalaman.
+                        Anda dapat meningkatkan pendapatan anda - Para programmer berpengalaman dapat memiliki
+                        pendapatan yang besar, apalagi jika mereka bekerja sebagai freelance atau karyaman kontrakan.
+                        Banyak programmer yang mendapat lebih dari $100 per jam, sehingga anda dapat mewujudkan mimpi
+                        anda yang paling liar. Dan yang terbaik, ada tuntutan pasar yang besar untuk para programmer,
+                        dan banyak orang akan rela untuk membayar anda mahal, apalagi jika anda sudah punya pengalaman.
                     </p>
                     <br>
                     <p>
-                        Anda dapat menjadi bos anda sendiri - Biarpun banyak programmer yang bekerja untuk perusahaan, ada cukup banyak programmer yang bekerja sebagai freelance. Sebagai freelancer, anda dapat bekerja di manapun, kapanpun, dan sesuai dengan apa yang anda mau. Ada begitu banyak proyek yang membutuhkan programmer sehingga anda dapat bekerja sesuai dengan proyek yang dapat anda nikmati.
+                        Anda dapat menjadi bos anda sendiri - Biarpun banyak programmer yang bekerja untuk perusahaan,
+                        ada cukup banyak programmer yang bekerja sebagai freelance. Sebagai freelancer, anda dapat
+                        bekerja di manapun, kapanpun, dan sesuai dengan apa yang anda mau. Ada begitu banyak proyek yang
+                        membutuhkan programmer sehingga anda dapat bekerja sesuai dengan proyek yang dapat anda nikmati.
                     </p>
                     <br>
                     <p>
-                        Anda dapat membuat proyek anda sendiri - Jika anda punya pengalaman bisnis, maka belajar coding dapat menginspirasi anda untuk mulai menjual aplikasi atau membuat website. Dengan pengalaman dan pengetahuan bahasa pemrograman, anda dapat membuat imajinasi anda menjadi kenyataan - percayalah!
+                        Anda dapat membuat proyek anda sendiri - Jika anda punya pengalaman bisnis, maka belajar coding
+                        dapat menginspirasi anda untuk mulai menjual aplikasi atau membuat website. Dengan pengalaman
+                        dan pengetahuan bahasa pemrograman, anda dapat membuat imajinasi anda menjadi kenyataan -
+                        percayalah!
                     </p>
                     <br>
                     <p>
-                        Alasan-alasan di atas hanyalah sedikit saja dari alasan mengapa anda harus tahu apa itu coding dan mulai belajar pemrograman. Dengan demikian, anda akan selalu punya pekerjaan, dan anda juga dapat terus mengikuti perkembangan teknologi serta anda dapat menolak pekerjaan yang anda tidak suka.
+                        Alasan-alasan di atas hanyalah sedikit saja dari alasan mengapa anda harus tahu apa itu coding
+                        dan mulai belajar pemrograman. Dengan demikian, anda akan selalu punya pekerjaan, dan anda juga
+                        dapat terus mengikuti perkembangan teknologi serta anda dapat menolak pekerjaan yang anda tidak
+                        suka.
                     </p>
                     <br>
                     <h3>Bahasa Pemrograman</h3>
                     <br>
-                    <p>Untuk memulai ngoding atau belajar coding, langkah pertama adalah menentukan bahasa pemrograman yang akan dipakai. Tentukan bahasa pemrograman sesuai dengan tujuan dan apa yang akan kamu buat. Terdapat berbagai macam bahasa pemrograman, setiap bahasa pemrograman memiliki tujuan dan karakteristiknya masing-masing. </p>
+                    <p>Untuk memulai ngoding atau belajar coding, langkah pertama adalah menentukan bahasa pemrograman
+                        yang akan dipakai. Tentukan bahasa pemrograman sesuai dengan tujuan dan apa yang akan kamu buat.
+                        Terdapat berbagai macam bahasa pemrograman, setiap bahasa pemrograman memiliki tujuan dan
+                        karakteristiknya masing-masing. </p>
                     <br>
-                    <p>Misalnya kamu akan memulai coding untuk membuat aplikasi android, maka kamu bisa menggunakan bahasa pemrograman Java ataupun Kotlin. Sedangkan jika kamu akan memulai coding untuk membuat aplikasi web, maka kamu bisa menggunakan bahasa pemrograman PHP, Javascript, maupun bahasa pemrograman lainnya. </p>
+                    <p>Misalnya kamu akan memulai coding untuk membuat aplikasi android, maka kamu bisa menggunakan
+                        bahasa pemrograman Java ataupun Kotlin. Sedangkan jika kamu akan memulai coding untuk membuat
+                        aplikasi web, maka kamu bisa menggunakan bahasa pemrograman PHP, Javascript, maupun bahasa
+                        pemrograman lainnya. </p>
                     <br>
-                    <p>Sebenarnya kamu bisa dengan leluasa memilih bahasa pemrograman yang akan digunakan. Berikut ini beberapa bahasa pemrograman populer yang bisa kamu gunakan untuk memulai coding.<p>
-                    <br>
+                    <p>Sebenarnya kamu bisa dengan leluasa memilih bahasa pemrograman yang akan digunakan. Berikut ini
+                        beberapa bahasa pemrograman populer yang bisa kamu gunakan untuk memulai coding.
+                    <p>
+                        <br>
                     <p>1. PHP </p>
                     <p>2. Python </p>
                     <p>3. Javascript </p>
@@ -215,7 +255,8 @@
                             Let's Get <br> Registration Course Coding
                         </h2>
                         <p>
-                            Ayo bergabung dengan Course Coding Alexandria Computing School , kembangkan bakat dan minat mu di bidang IT .
+                            Ayo bergabung dengan Course Coding Alexandria Computing School , kembangkan bakat dan minat
+                            mu di bidang IT .
                         </p>
                     </div>
                 </div>
@@ -242,18 +283,25 @@
                     <div class="course-form-section">
                         <h3 class="text-white">Registration for Course Coding</h3>
                         <p class="text-white">It is high time for learning</p>
-                        <form class="course-form-area contact-page-form course-form text-right" id="myForm"  action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+                        <form class="course-form-area contact-page-form course-form text-right" id="myForm"
+                            action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
                             <div class="form-group col-md-12">
-                                <input type="text" class="form-control" id="username" name="username" placeholder="Username" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Name'">
+                                <input type="text" class="form-control" id="username" name="username"
+                                    placeholder="Username" onfocus="this.placeholder = ''"
+                                    onblur="this.placeholder = 'Name'">
                             </div>
                             <div class="form-group col-md-12">
-                                <input type="email" class="form-control" id="email" name="email" placeholder="Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address'">
+                                <input type="email" class="form-control" id="email" name="email"
+                                    placeholder="Email Address" onfocus="this.placeholder = ''"
+                                    onblur="this.placeholder = 'Email Address'">
                             </div>
                             <div class="form-group col-md-12">
-                                <input type="password" class="form-control" id="passwordd" name="passwordd" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
+                                <input type="password" class="form-control" id="passwordd" name="passwordd"
+                                    placeholder="Password" onfocus="this.placeholder = ''"
+                                    onblur="this.placeholder = 'Password'">
                             </div>
                             <div class="col-lg-12 text-center">
-                            <button class="btn btn-success" type="submit" name="submit" >Registrasi</button>
+                                <button class="btn btn-success" type="submit" name="submit">Registrasi</button>
                             </div>
                         </form>
                     </div>
@@ -307,8 +355,12 @@
                     <h4>Newsletter</h4>
                     <p>You can trust us. we only send promo offers,</p>
                     <div class="form-wrap" id="mc_embed_signup">
-                        <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" class="form-inline">
-                            <input class="form-control" name="EMAIL" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '" required type="email">
+                        <form target="_blank"
+                            action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
+                            class="form-inline">
+                            <input class="form-control" name="EMAIL" placeholder="Your Email Address"
+                                onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '"
+                                required type="email">
                             <button class="click-btn btn btn-default text-uppercase">subscribe</button>
                             <div style="position: absolute; left: -5000px;">
                                 <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
@@ -323,8 +375,9 @@
 
                     Copyright &copy;
                     <script>
-                        document.write(new Date().getFullYear());
-                    </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
+                    document.write(new Date().getFullYear());
+                    </script> All rights reserved | This template is made with <i class="fa fa-heart-o"
+                        aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
                 </p>
                 <div class="col-lg-4 col-md-12 footer-social">
                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -337,56 +390,64 @@
     </footer>
 
     <script src="js/vendor/jquery-2.2.4.min.js"></script>
-    <script src="../../../cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
-    <script src="js/vendor%2c_bootstrap.min.js%2bjquery.ajaxchimp.min.js%2bjquery.magnific-popup.min.js%2bparallax.min.js.pagespeed.jc.APRAhY84lf.js"></script>
+    <script src="../../../cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
+        integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous">
+    </script>
+    <script
+        src="js/vendor%2c_bootstrap.min.js%2bjquery.ajaxchimp.min.js%2bjquery.magnific-popup.min.js%2bparallax.min.js.pagespeed.jc.APRAhY84lf.js">
+    </script>
     <script>
-        eval(mod_pagespeed_ufuz5PjQPA);
+    eval(mod_pagespeed_ufuz5PjQPA);
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
     <script>
-        eval(mod_pagespeed_kFmS7MLkTP);
+    eval(mod_pagespeed_kFmS7MLkTP);
     </script>
     <script>
-        eval(mod_pagespeed__vGFzIyk5p);
+    eval(mod_pagespeed__vGFzIyk5p);
     </script>
     <script>
-        eval(mod_pagespeed_DyNN9nfq2p);
+    eval(mod_pagespeed_DyNN9nfq2p);
     </script>
-    <script src="js/owl.carousel.min.js%2bjquery.sticky.js%2bhexagons.min.js%2bjquery.counterup.min.js%2bwaypoints.min.js%2bjquery.nice-select.min.js%2bmain.js.pagespeed.jc.ydTG76tfCV.js"></script>
-    <script>
-        eval(mod_pagespeed_0Go$u25iY_);
-    </script>
-    <script>
-        eval(mod_pagespeed_9_IE1H_8qT);
+    <script
+        src="js/owl.carousel.min.js%2bjquery.sticky.js%2bhexagons.min.js%2bjquery.counterup.min.js%2bwaypoints.min.js%2bjquery.nice-select.min.js%2bmain.js.pagespeed.jc.ydTG76tfCV.js">
     </script>
     <script>
-        eval(mod_pagespeed_$nN6wRIle4);
+    eval(mod_pagespeed_0Go$u25iY_);
     </script>
     <script>
-        eval(mod_pagespeed_p4xZoiuSlO);
+    eval(mod_pagespeed_9_IE1H_8qT);
     </script>
     <script>
-        eval(mod_pagespeed_6nrsJ02F_x);
+    eval(mod_pagespeed_$nN6wRIle4);
     </script>
     <script>
-        eval(mod_pagespeed_3sLiFmyYzI);
+    eval(mod_pagespeed_p4xZoiuSlO);
     </script>
     <script>
-        eval(mod_pagespeed_uT5GBOVP1z);
+    eval(mod_pagespeed_6nrsJ02F_x);
+    </script>
+    <script>
+    eval(mod_pagespeed_3sLiFmyYzI);
+    </script>
+    <script>
+    eval(mod_pagespeed_uT5GBOVP1z);
     </script>
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
+    window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
-        gtag('config', 'UA-23581568-13');
+    gtag('config', 'UA-23581568-13');
     </script>
-    <script defer src="../../../static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"69f52c9b7dcf2eb3","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2021.9.0","si":100}'></script>
+    <script defer src="../../../static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon='{"rayId":"69f52c9b7dcf2eb3","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2021.9.0","si":100}'>
+    </script>
 </body>
 
 <!-- Mirrored from preview.colorlib.com/theme/eclipse/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 16 Oct 2021 23:47:58 GMT -->

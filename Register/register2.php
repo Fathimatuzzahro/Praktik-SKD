@@ -1,9 +1,7 @@
 <?php require 'tampilan/header.php'; ?>
 <?php $pagename = "Registrasi Akun"; ?>
 
-<?php 
-
-require_once('functions.php');
+<?php require 'functions.php';
 
 if (isset($_POST["submit"])) {
 

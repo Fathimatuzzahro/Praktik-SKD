@@ -23,11 +23,12 @@ function tambah($data)
     $passwordd = md5($data["passwordd"]);
     $rolee = "user";
     $ket = "unlock";
+    $no_hp = htmlspecialchars($data["no_hp"]);
 
-    $query = "INSERT INTO user(id, nama, username, email, passwordd , rolee, ket) 
-    VALUES( '', '$nama', '$username', '$email', '$passwordd', '$rolee', '$ket' )";
+    $query = "INSERT INTO user(id, nama, username, email, passwordd , rolee, ket, no_hp) 
+    VALUES( '', '$nama', '$username', '$email',  '$passwordd', '$rolee', '$ket','$no_hp')";
 
-    mysqli_query($conn, $query);
+    mysqli_query($conn, $this->query($query));
 
     return mysqli_affected_rows($conn);
 }
